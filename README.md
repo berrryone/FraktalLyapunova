@@ -1,4 +1,4 @@
-# FraktalLyapunova
+# Fraktal Lyapunova
 program wykorzystuje fraktal Lyapunova, który jest generowany przy użyciu języka JavaScript i elementu canvas HTML5.
 Fraktale Lyapunova są wynikiem iteracyjnych obliczeń opartych na równaniu logistycznym, które ma postać:
 
